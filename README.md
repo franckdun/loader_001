@@ -4,8 +4,9 @@ tuto petit loader
 
 pour voir l'effet loader :
 
+- déployez la page
 - ouvrir le Developper Tools
-- aller dans Network
+- selectionnez Network
 - selectionnez Disable Cache
 - selectionnez GPRS
-- Relancer la page
+- Relancez la page
